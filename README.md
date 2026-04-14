@@ -15,3 +15,17 @@ Aplicación desarrollada en Java con arquitectura MVC y POO para calcular el Ín
 - Patrón MVC
 
 ## Estructura del proyecto
+src/
+├── controlador/
+│   └── Controlador.java
+├── modelo/
+│   └── Persona.java
+├── vista/
+│   ├── FrmRegistro.java
+│   ├── FrmConsulta.java
+│   └── FrmAcercaDe.java
+└── Main.java
+## Desarrollador
+- **Nombre:** JEFRY LEANDRO
+- **Programa:** ADSO
+- **Fecha:** 2026
