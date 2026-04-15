@@ -19,7 +19,8 @@ src/
 ├── controlador/
 │   └── Controlador.java
 ├── modelo/
-│   └── Persona.java
+│   ├── Persona.java
+│   └── Proceso.java
 ├── vista/
 │   ├── FrmRegistro.java
 │   ├── FrmConsulta.java
