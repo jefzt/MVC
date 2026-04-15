@@ -106,7 +106,7 @@ public class Controlador {
     }
 
     // Acción del botón "Acerca de"
-    class Acerca implements ActionListener {
+    class Acerca implements ActionListener {cd modelo
         public void actionPerformed(ActionEvent e) {
             // Muestra la ventana de información del desarrollador
             acerca.setVisible(true);
